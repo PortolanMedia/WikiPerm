@@ -4,7 +4,7 @@ WikiPerm is a simple userscript to automatically redirect selected Wikimedia pag
 
 ## Installation
 
-Copy the script/download the file and paste or upload into [Violentmonkey](https://violentmonkey.github.io/) or your userscript manager of choice.
+Install from URL using [this link](https://raw.githubusercontent.com/PortolanMedia/WikiPerm/main/WikiPerm.js) or copy and pase the script directly into [Violentmonkey](https://violentmonkey.github.io/) or your userscript manager of choice.
 
 ## Features
 
@@ -30,6 +30,8 @@ Not supported:
 - Wikifunctions | *Not yet supported*
 
 ## Notes
+
+Developed for [Violentmonkey](https://violentmonkey.github.io/) and tested in Firefox and Chrome.
 
 This is my first script built from scratch (shoutout to ChatGPT and Copilot for their assistance) and I have next to no idea what I'm doing. Friendly input is more than welcome.
 You can contact me [here](mailto:portolanmedia+wikiperm@gmail.com).
