@@ -1,4 +1,5 @@
 # WikiPerm
+## v1.0.0
 
 WikiPerm is a simple userscript to automatically redirect selected Wikimedia pages to the most recent permanent link- aka "current revision" or "OldID".
 
