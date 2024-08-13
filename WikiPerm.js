@@ -33,7 +33,7 @@
 // @grant       none
 // @version     1.0
 // @author      PortolanMedia
-// @homepage    https://portolan.media/
+// @homepage    https://github.com/PortolanMedia/WikiPerm
 // @copyright   MIT license
 // @description This userscript automatically redirects selected Wikimedia pages to the most recent permanent link
 // @description 8/13/2024
